@@ -2,7 +2,7 @@ package Arrays;
 
 public class Lab162 {
     public static void main() {
-
+/*
         int [][] matrix ={
 
                 {1,2,3},
@@ -16,6 +16,6 @@ public class Lab162 {
             System.out.print(matrix[i][j]);
         }
         System.out.println();
-
+*/
     }
 }
