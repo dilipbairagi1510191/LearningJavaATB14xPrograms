@@ -3,7 +3,7 @@ package Ready_Programs;
 public class KCheckGivenNumberisPrimeOrNot {
     public static void main(String[] args) {
 
-        int num=2;
+        int num=7;
         int count=0;
 
         if(num>1)

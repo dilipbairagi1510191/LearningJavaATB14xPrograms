@@ -9,7 +9,7 @@ public class XHowToCountOccurrencesofaCharacterinaString {
         int total_count=s.length(); //total length of string
         System.out.println(total_count);
 
-        int after_remove_a=s.replace("i","").length(); //total length after remove a
+        int after_remove_a=s.replace("a","").length(); //total length after remove a
         System.out.println(after_remove_a);
 
         int count=total_count-after_remove_a;

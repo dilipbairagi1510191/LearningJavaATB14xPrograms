@@ -1,6 +1,6 @@
 package Ready_Programs;
 
-public class ZCFindSecondLargestNumber {
+public class    ZCFindSecondLargestNumber {
     public static void main(String[] args) {
 
         int []a= {20,42,60,25,30,88};
