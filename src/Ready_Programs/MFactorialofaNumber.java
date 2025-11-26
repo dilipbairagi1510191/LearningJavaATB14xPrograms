@@ -3,7 +3,7 @@ package Ready_Programs;
 public class MFactorialofaNumber {
     public static void main(String[] args) {
 
-        int number=6;
+        int number=5;
         long factorial=1;
 
         for(int i=1; i<=number;i++)

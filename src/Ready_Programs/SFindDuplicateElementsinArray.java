@@ -12,7 +12,7 @@ public class SFindDuplicateElementsinArray {
             {
                 if (arr[i]==arr[j])
                 {
-                    System.out.println("found duplicate element"+arr[i]);
+                    System.out.println("found duplicate element::::::"+arr[i]);
                     flag=true;
                 }
             }
