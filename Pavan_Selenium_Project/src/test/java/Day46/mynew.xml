@@ -1,0 +1,19 @@
+<suite name="All Test Suite">
+
+    <listeners>
+          <listener class-name="Day46.ExtendReportManager"/>
+    </listeners>
+
+
+    <test verbose="2" preserve-order="true" name="C:/Users/dilip/IdeaProjects/LearningJavaATB14xPrograms/Pavan_Selenium_Project/src/test/java/Day46/OrangHRM.java">
+        <classes>
+            <class name="Day46.OrangHRM">
+                <methods>
+                    <include name="testLogo"/>
+                    <include name="testAppUrl"/>
+                    <include name="testHomePageTitle"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

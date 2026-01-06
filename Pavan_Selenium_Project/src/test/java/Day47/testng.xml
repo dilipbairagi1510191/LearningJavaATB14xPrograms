@@ -1,0 +1,11 @@
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/dilip/IdeaProjects/LearningJavaATB14xPrograms/Pavan_Selenium_Project/src/test/java/Day47">
+        <classes>
+            <class name="Day47.loginTestCase">
+                <methods>
+                    <include name="testLogin"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

@@ -1,4 +1,4 @@
-package org.example;
+package TheTestingAcademy.ex_01_RA_Hello;
 
 import io.restassured.RestAssured;
 

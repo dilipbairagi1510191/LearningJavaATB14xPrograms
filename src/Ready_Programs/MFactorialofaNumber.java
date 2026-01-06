@@ -4,7 +4,7 @@ public class MFactorialofaNumber {
     public static void main(String[] args) {
 
         int number=5;
-        long factorial=1;
+        long factorial=2;
 
         for(int i=1; i<=number;i++)
         {
